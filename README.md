@@ -1,5 +1,5 @@
 # Kazakh-chatbot
-The training model for this chatbot was copied from https://github.com/python-engineer/pytorch-chatbot
+Some of the training model features of this chatbot was copied from https://github.com/python-engineer/pytorch-chatbot
 
 Our main contribution was about creating unique kazakh language NLP tools, so the bot can work with our letters and words. Still it needs lots of improvements, but as a start it is great.
 
